@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Ole777 UEFA European Championship 2024",
+  "version": "1.0",
+  "description": "The quickest update of UEFA European Championship 2024 match results with the Ole777 addon.",
+  "icons": {
+    "128": "main/icon_128.png"
+  },
+  "action": {
+    "default_icon": "main/64.png",
+    "default_title": "Ole777 UEFA European Championship"
+  },
+  "developer": {
+    "name": "Thomas D John"
+  },
+  "background": {
+    "service_worker": "main/background.js"
+  }
+}
